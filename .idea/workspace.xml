@@ -5,4 +5,31 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d0c9fc2-0446-4b5a-b414-60361118dc5a" name="Default Changelist" comment="" />
+      <created>1583299671015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583299671015</updated>
+      <workItem from="1583299674160" duration="366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog" timestamp="1583300131231">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="170" y="127" width="1650" height="853" key="DiffContextDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583300131231" />
+    <state x="748" y="239" width="483" height="635" key="VcsDiffUtil.ChangesDialog" timestamp="1583300130657">
+      <screen x="70" y="27" width="1850" height="1053" />
+    </state>
+    <state x="748" y="239" width="483" height="635" key="VcsDiffUtil.ChangesDialog/70.27.1850.1053@70.27.1850.1053" timestamp="1583300130657" />
+  </component>
 </project>
